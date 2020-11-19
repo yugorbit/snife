@@ -19,6 +19,8 @@ Loading images via JavaScript module `import` is also supported.
 
 ## Writing Code
 
+
+
 After cloning the repo, run `npm install` from your project directory. Then, you can start the local development
 server by running `npm start`.
 
